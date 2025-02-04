@@ -26,7 +26,7 @@
 ## 🔧 Installation & Setup
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/HostelSync.git
+   git clone https://github.com/ayaxan7/HostelSync.git
    ```
 2. Open in **Android Studio**.
 3. Set up **Firebase**:
