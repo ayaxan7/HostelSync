@@ -35,12 +35,10 @@
 4. Configure **Razorpay API Keys**.
 5. Run the app on an emulator or device.
 
----
-Made with ❤️ by your friendly neighbourhood crazy coder
 ## 📌 Future Improvements
 - ✅ **Push Notifications** for new notices & complaint updates.
 - ✅ **Complaint Status Tracking** (Pending, In Progress, Resolved).
 - ✅ **Payment History** section.
 
-## 🤝 Contributing
-Feel free to fork this repo and submit pull requests! 🚀
+---
+Made with ❤️ by your friendly neighbourhood crazy coder
