@@ -43,15 +43,15 @@ class PaymentViewModel: ViewModel(), PaymentResultWithDataListener, ExternalWall
     private fun initiateRazorpay(context: Context, orderId: String, amount: Int) {
         val activity = context as Activity
         val co = Checkout()
-        co.setKeyID("rzp_test_GZS2qjl89FhoOl")
+        co.setKeyID("YOUR_RAZORPAY_ID")
 
         try {
             val options = JSONObject()
             options.put("name", "Your Business")
             options.put("description", "Test Payment")
             options.put("currency", "INR")
-            options.put("amount", amount) // Pass amount in paise
-            options.put("order_id", orderId) // Pass order_id from backend
+            options.put("amount", amount)
+            options.put("order_id", orderId)
 
             co.open(activity, options)
         } catch (e: Exception) {
