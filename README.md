@@ -19,7 +19,7 @@
 
 ## 🛠️ Tech Stack
 - **Android:** Kotlin + Jetpack Compose + MVVM 
-- **Backend:** Firebase (Firestore, Authentication)
+- **Backend:** Firebase (Firestore, Authentication) + Custom API for Razorpay built using Express.js
 - **Payment Gateway:** Razorpay
 - **State Management:** ViewModel + LiveData
 
