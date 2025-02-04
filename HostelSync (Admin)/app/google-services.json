@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "979873699188",
+    "project_id": "gojo-a1895",
+    "storage_bucket": "gojo-a1895.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979873699188:android:f38bfc5a9fe453fef64821",
+        "android_client_info": {
+          "package_name": "com.hustle.away"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMD8xBeJ9ZlEk2gYmWIBjtUwT_Cy3VjuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979873699188:android:883089444634775af64821",
+        "android_client_info": {
+          "package_name": "com.hustle.awayadminside"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMD8xBeJ9ZlEk2gYmWIBjtUwT_Cy3VjuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
